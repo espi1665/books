@@ -9,7 +9,7 @@
 |            | Book        | Author      | Rating      | Notes     | Tags     |
 |------------|-------------|-------------|-------------|-------------|-------------|
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51pJUIk2tjL._SX329_BO1,204,203,200_.jpg" width="100"> |[Players First Coaching](https://www.amazon.com/Players-First-Coaching-Inside-Out/dp/1594205736) | John Calipari | 10/10 | Notes TODO | Coaching, Basketball
-| <img src="https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson/dp/0143125346" width="100"> |[Eleven Rings Success](https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson/dp/0143125346) | Phil Jackson | 10/10 | Notes TODO | Coaching, Basketball
+| <img src="https://images-na.ssl-images-amazon.com/images/I/510V8DyEnAL._SX324_BO1,204,203,200_.jpg" width="100"> |[Eleven Rings Success](https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson/dp/0143125346) | Phil Jackson | 10/10 | Notes TODO | Coaching, Basketball
 
 - Finding the Lost Art of Empathy - Tracy Wilde
 - The Obstacle is the Way
