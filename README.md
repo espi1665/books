@@ -33,7 +33,7 @@
 - Extreme Ownership: How U.S. Navy SEALs Lead and Win
 - Range: Why Generalists Triumph in a Specialized World
 - The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapic Customer Feedback
-- Fuck Feelings: One Shrinks Practical Advice for Managing All Life's Impossible Problems
+- F*** Feelings: One Shrinks Practical Advice for Managing All Life's Impossible Problems
 - Elon Musk documentary
 - Radical Honesty
 - Energy Bus
