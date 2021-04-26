@@ -67,6 +67,12 @@
 - !!!Co-Active Coaching!!!: https://coactive.com/resources/#books
 - StrengthsFinder-2-0-Tom-Rath-ebook
 - Co-active leadership!!!
+- Scrum: The Art of Doing Twice the Work in Half the Time
+- Coaching Agile Teams
+- The Propsperous Coach
+- The Five Disfunctions of a Team
+- The Culture Code
+- Tribal Leadership
 
 ## Podcasts
 
