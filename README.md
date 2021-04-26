@@ -10,8 +10,19 @@
 |------------|-------------|-------------|-------------|-------------|-------------|
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51pJUIk2tjL._SX329_BO1,204,203,200_.jpg" width="100"> |[Players First Coaching](https://www.amazon.com/Players-First-Coaching-Inside-Out/dp/1594205736) | John Calipari | 10/10 | Notes TODO | Coaching, Basketball
 | <img src="https://images-na.ssl-images-amazon.com/images/I/510V8DyEnAL._SX324_BO1,204,203,200_.jpg" width="100"> |[Eleven Rings Success](https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson/dp/0143125346) | Phil Jackson | 10/10 | Notes TODO | Coaching, Basketball
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51dE4ImKRgL._SX326_BO1,204,203,200_.jpg" width="100"> |[Finding the Lost Art of Empathy](https://www.amazon.com/Finding-Lost-Art-Empathy-Disconnected/dp/1982122838/ref=sr_1_1?dchild=1&gclid=Cj0KCQjwyZmEBhCpARIsALIzmnKPWVzxzyhxwtEsCPO_miMN9LyNiNfOY6PPlhw87SMkaLbP1IyQkwYaAgo7EALw_wcB&hvadid=241649199580&hvdev=c&hvlocphy=9061078&hvnetw=g&hvqmt=e&hvrand=16993838837612034824&hvtargid=kwd-378059559797&hydadcr=19735_10212340&keywords=finding+the+lost+art+of+empathy&qid=1619479598&sr=8-1) | Tracy Wilde | | Coaching, Communication| 
+| <img src="" width="100"> |[]() | | | | 
+| <img src="" width="100"> |[]() | | | | 
+| <img src="" width="100"> |[]() | | | | 
+| <img src="" width="100"> |[]() | | | | 
+| <img src="" width="100"> |[]() | | | | 
+| <img src="" width="100"> |[]() | | | | 
+| <img src="" width="100"> |[]() | | | | 
+| <img src="" width="100"> |[]() | | | | 
+| <img src="" width="100"> |[]() | | | | 
+| <img src="" width="100"> |[]() | | | | 
+| <img src="" width="100"> |[]() | | | | 
 
-- Finding the Lost Art of Empathy - Tracy Wilde
 - The Obstacle is the Way
 - Raise Your Game
 - Lost Connections
