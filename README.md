@@ -6,8 +6,12 @@
   - [Podcasts](#podcasts)
 
 ## Done
+|            | Book        | Author      | Rating      | Notes     | Tags     |
+|------------|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51pJUIk2tjL._SX329_BO1,204,203,200_.jpg" width="100"> |[The Culture Code: The Secrets of Highly Successful Groups)](https://www.amazon.com/Players-First-Coaching-Inside-Out/dp/1594205736) | John Calipari | 10/10 | Notes TODO | Coaching
 
-- Players First - John Calipari
+
+
 - Eleven Rings Success by Phil Jackson
 - Finding the Lost Art of Empathy - Tracy Wilde
 - The Obstacle is the Way
