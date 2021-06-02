@@ -73,6 +73,8 @@
 - The Five Disfunctions of a Team
 - The Culture Code
 - Tribal Leadership
+- “EMPOWERED, Ordinary People, Extraordinary Products” by Silicon Valley Product group
+
 
 ## Podcasts
 
