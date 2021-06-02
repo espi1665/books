@@ -74,7 +74,7 @@
 - The Culture Code
 - Tribal Leadership
 - “EMPOWERED, Ordinary People, Extraordinary Products” by Silicon Valley Product group
-
+- situational leadership ken blanchard
 
 ## Podcasts
 
