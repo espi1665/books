@@ -1,4 +1,4 @@
-Players First 
+# Players First 
 - John says season is about the team. Off season is about the individual 
 - Volunteering - Noel did it by himself... that’s something that will never show up on the scoreboard 
 - 1) nurturer: be patient and create successful environment 
