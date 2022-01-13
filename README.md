@@ -26,7 +26,6 @@
 | <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> |[How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/ref=sr_1_1?keywords=how+to+win+friends+and+influence+people&qid=1641608358&s=audible&sprefix=how+to+win+%2Caudible%2C214&sr=1-1) | Dale Carnegie | 10/10 | | Communication
 | <img src="https://images-na.ssl-images-amazon.com/images/I/516pmXNNmCL._SX324_BO1,204,203,200_.jpg" width="100"> |[The subtile art of not giving a F***](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=asc_df_0062457713/?tag=hyprod-20&linkCode=df0&hvadid=312696355873&hvpos=&hvnetw=g&hvrand=4764311653436564189&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061078&hvtargid=pla-435228795777&psc=1) | Mark Manson | 9/10 | | Life, Cynical, Coaching
 | <img src="https://m.media-amazon.com/images/I/51R7SxMIAEL.jpg" width="100"> |[Everything is F****ed](https://www.amazon.com/Everything-Is-F-cked-Mark-Manson-audiobook/dp/B07NXWC9V5/ref=sr_1_1?crid=5U5MM8DXVHX5&keywords=everything+is+fucked&qid=1641608213&s=books&sprefix=everything+is+fucked%2Cstripbooks%2C174&sr=1-1) | Mark Manson | 9/10 | | Life, Cynical, Coaching
-| <img src="https://images-na.ssl-images-amazon.com/images/I/31Q06VSGmzL._SX362_BO1,204,203,200_.jpg" width="100"> |[What Drives Winning](https://www.amazon.com/What-Drives-Winning-Building-Character/dp/0996226400) | Brett Ledbetter | 10/10 | | Life, Coaching
 
 ## Backlog
 - The Effective Engineer - Edmond Lau
