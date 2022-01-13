@@ -1,5 +1,5 @@
 
-= Dichotomy of Leadership
+# Dichotomy of Leadership
 
 I’ve continued to look for new leadership philosophies to gather wisdom and knowledge. I learned about Jocko Willink on one of my favorite podcasts. He is a former US Navy SEAL, and really sparked my interest in military leadership. His book dives into examples from the battlefield and their consulting business to help leaders to understand the nuances in leadership and how to embrace the contradictions in leadership.
 
