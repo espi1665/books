@@ -1,6 +1,18 @@
 # Elevan Rings Success
 
-Today's message is around fear/anxiety/anger and Why Mindfulness is a major key
+
+## Eleven Rings Success by Phil Jackson 
+
+Every year Phil Jackson gives all if his team members/staff a book going into the off-season and has a 1:1 meeting when they re-group the next fall. He selects books that he thinks they would enjoy, learn from, make them laugh or smile, or just end up collecting dust on a shelf. He's aware not everyone is going to read, but sometimes all it takes is one to make a difference between winning a championship and falling just short. My athletic director follows this concept with his entire coaching staff and it's helped me grow a lot
+
+### Self-Reflection
+--------------------------
+Why not you? CFE discussions just ended - why not adopt this yourself? That budget that you have for team events is just chilling there - why not send your team audiobooks/books and have a discussion at CFE season this summer? 
+
+
+
+
+## Today's message is around fear/anxiety/anger and Why Mindfulness is a major key
 
 Phil Jackson mentioned in his book:
 
