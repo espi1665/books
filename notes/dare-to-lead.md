@@ -21,3 +21,24 @@ Now that 2021 is over... Let's refresh on **fear**... If you struggle recognizin
 ### Self Reflection 
 - When did you face fear, and how do you handle it?
 - How do you help guide your team/family/friends through their fear?
+
+
+
+### Notes
+
+- “leaders: anyone who takes responsibility for finding potential in people and processes and who has the courage to develop that potential “
+- Have self-awareness to Lead from the Heart not from the hurt and fear
+- Brave leaders 
+- Ten things that hold back: 1) having tough conversations 
+- vulnerability is not weakness. vulnerability - you need to take responsibility for it and be aware of it
+- “I grew up learning that vulnerability... is ___”
+- Trust is earned in smallest of moments... not heroic moments. Paying attention, listening and gestures of genuine connection... 
+- Leading with vulnerability - leaning in instead of walking away
+- Slogans are easy behaviors to support the slogans are not...
+- Strong back, soft front, wild heart
+- Be fierce and kind
+- How much do you contribute vs. criticize??? You should always strive to contribute more than you criticize. If you tear down someone’s idea - make sure an offer up different solution options
+- Let’s paint DoD
+- The opposite of play is not work - it’s depression - Brende Brown
+- Emotional literacy means you have to start by naming tv 30+ emotions that you can and have felt
+- Anxiety is contagious- being calm is contagious. Breathing helps with this. Box breathing 
