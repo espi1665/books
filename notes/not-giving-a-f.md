@@ -1,0 +1,38 @@
+# Not Giving an F Notes
+
+- smallest dog barks the loudest 
+- Society - more more more 
+- Too much giving a f - good for business bad for you...
+- Give a f about less 
+- I feel like shit who gives a f***?
+- Anxiety/fear helps you build courage 
+- Trying to avoid pain is giving too much of a f*** about it
+- Be comfortable with being different 
+- Prioritize what matters. Psychology - no problems, problems will be made
+- Pain and loss and unavoidable. Learn to live with this. Let go of trying to avoid it
+- We are wired to be dissatisfied with what we have and become stratified with what we don’t 
+- Body doesn’t recognize different between physical vs psychological pain
+- Society coddles us, solution of one problem is the creation of another one
+- Hope for a life of good problems
+- Happiness is solving problems not in not having problems 
+- 1) denial they don’t have problems 2) victim mentality- cannot solve problems. Feel better in short term. Leads to life of anger, helplessness and despair 
+- Blaming is easy and feels good(quick rush), problem solving is hard
+- Beatrice emotions are call to action. Positive for rewards to take proper action
+- Our struggles determine our successes, problems birth our happiness. Slightly better, slightly upgraded problems. Never ending upwards spiral. Joy is in the climb itself
+- Self worth is not determined by the good qualities/achievements. It’s based off of problems 
+- Money brings happiness if after we meet our basic needs, shelter, food, water. After that, there’s no real difference. So if you’re in the middle class in a developed country 10k won’t make a difference 
+- Pleasure is something we’re force fed on a regular basis - this value should not define our life 
+- Good healthy values: honesty, innovation, vaulnerability, standing Up for yourself/others, curiosity,  self-respect, creativity, humility, charity 
+- Manipulation, feeling good all the time, center of attention,  not being alone, being liked by everybody, being rich to be rich, sacrificing animals to pagan gods 
+- Difference problem is painful/powerful is sense that we choose it and we are responsible for it. If problem is painful then you feel like some part of it is outside your control.
+- First step, accept responsibility for our problems... with great responsibility comes great power. The more we choose to accept responsibility in our lives the more power we accept in our life’s.
+- Responsibility and fault are not the same thing... 
+- Some things feel too painful to own up to... if you get robbed, not your fault, it’s your responsibility on your response/actions. Manage emotional/
+- Improve social life vs. get everyone to like me
+- Life is about not knowing then doing something about it anyway 
+- Action isn’t just effect of motivation it’s also the cause of it... 
+- inspiration, motivation, action. Repeat
+- Entitled ppl fail into 1/2 traps:  1) expect other ppl to take responsibility for their problems or 2) taking responsibility of problems or emotions that are not theirs. 
+- Without death there is no point to life. Accept that death will occur so that you can live.
+- Everything we do it immortality projects. Name on a gym, etc... need to give that up so that you can live.
+- I can give you the gist, save your money (however, this book has some solid advice and a great sense of humor).  Your feelings are temporary manifestations of your brain reacting to many factors.  Your feelings may be real to you, but they don’t actually mean anything.  It is our interpretation of our feelings that causes much grief.  We need to just acknowledge our feelings, make a note of them, then ignore them and move on.
