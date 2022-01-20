@@ -8,3 +8,7 @@ This book as been in my backlog for a long time and I’m finally getting to it 
 - How can you give someone at work, family, and friends appreciation and encouragement today?
 - Why do you think giving appreciation is important to make a daily habit?
 
+### Notes
+- Biggest problem you’ll face is not technical - it’s people - doesn’t matter your occupation 
+- 15% in technical skills, 85% ppl. Technical knowledge and ppl skills is prepared for hiring earning power. 
+- John D. Rockefeller - “the ability to deal with people is as purchasable as sugar or coffee - I will pay more for that ability more than any under the sun…”
