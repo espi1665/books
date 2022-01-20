@@ -30,3 +30,24 @@ Most disagreements start at the beginning or the end of a meeting. Here are a fe
 
 The further I get into my career, the more realize the importance of communication. For those who don't know: I had my 3rd concussion in 2017 on the left side of my brain (communication side). I didn't properly give it time to heal, and for over a year I felt the symptoms: I'd lose my train of thought, and I struggled to keep my focus :disappointed:. Concussions are no joke - take them serious and give yourself ample time to heal. Thank you everyone who's joined me on this journey over the last few years.
 Let's continue to grow together
+
+
+### Notes
+
+- For skills to look for mutual purpose CRIB: Commit to seek mutual purpose. Step out of content - make it safe. Seems like we are both trying to force our view. Recognize the purpose behind the strategy. Step out of content and explore the purpose behind em. Mutual purpose. Invent a mutual purpose. Brainstorm new strategies - suspend judgement and find new ways to think outside of the box. CRIB
+- You can make up stories in your head - take control of these stories... are you mad every-time someone laughs at you??
+- When you have negative story in your head - stop what you’re doing - get in touch on why to retrace your path... 
+- if you rationalize your behavior you will be justify your action... stop and think about how others would think... what would they tell you about your behavior... they notice and admit they behavior. They review path to action... 
+- Do you willingly talk to others close to you - important to expand emotional vocabulary... 
+- clever story vs. useful story... victim/villain mindset... recognize to story - stop and do what it takes to tell useful story
+- Turn victim to actor. 
+- Villain to human - why would they be doing this - rule out unhealthily motives - understand their motive   
+- Helpless into the able. What would I do right now if I want these results?
+- STATE: share your facts, tell your story, ask for other paths, talk tentatively, encourage testing  
+- “Maybe I’m wrong here” 
+- don’t for. Differences Into debates... build, yes and
+- Most disagreements start at beginning or end
+- Separate dialog and making decisions 
+- When an ideas no I told you so take responsibility 
+- Learn to look - are you falling into silence or violence ?
+
