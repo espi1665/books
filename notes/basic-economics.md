@@ -1,10 +1,8 @@
-Sumamry
+## Sumamry
 
-```
-Basic Economics is a citizen’s guide to economics, written for those who want to understand how the economy works but have no interest in jargon or equations. Bestselling economist Thomas Sowell explains the general principles underlying different economic systems: capitalist, socialist, feudal, and so on. In readable language, he shows how to critique economic policies in terms of the incentives they create, rather than the goals they proclaim. With clear explanations of the entire field, from rent control and the rise and fall of businesses to the international balance of payments, this is the first book for anyone who wishes to understand how the economy functions.
-```
+> Basic Economics is a citizen’s guide to economics, written for those who want to understand how the economy works but have no interest in jargon or equations. Bestselling economist Thomas Sowell explains the general principles underlying different economic systems: capitalist, socialist, feudal, and so on. In readable language, he shows how to critique economic policies in terms of the incentives they create, rather than the goals they proclaim. With clear explanations of the entire field, from rent control and the rise and fall of businesses to the international balance of payments, this is the first book for anyone who wishes to understand how the economy functions.
 
-[9 Lessons from Basics Economics](https://jackyangzzh.medium.com/lessons-from-basic-economics-by-thomas-sowell-a1dc2505cd57)
+### [9 Lessons from Basics Economics](https://jackyangzzh.medium.com/lessons-from-basic-economics-by-thomas-sowell-a1dc2505cd57)
 1. The economics is the allocation of scarce resource which has alternative uses.
 2. The market can adjust itself through price.
 3. Money creates incentives
@@ -16,7 +14,7 @@ Basic Economics is a citizen’s guide to economics, written for those who want 
 8. Government still plays an important role
 9. Connectedness is important for the economy
 
-Notes:
+### Notes:
 - Money provides incentives for businesses to become more efficient and scarce resources to not go extinct. In other words, money helps people to choose certain actions over the other and it helps the market to adjust itself. When prices are artifically controlled, demand goes up and supplies don’t have the incentive to provide high-quality services. For example, under rent control, by keeping rent below a certain price point, landlords no longer have the incentive to provide good housing conditions.
 - Money provides incentives for individuals
 - Trickle down economics theory has never been accepted amoung economists. The free market is about distributing anything to anybody. It's about letting people earn what they can from voluntary transations from other people
