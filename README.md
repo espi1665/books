@@ -94,7 +94,7 @@
 - “EMPOWERED, Ordinary People, Extraordinary Products” by Silicon Valley Product group
 - situational leadership ken blanchard
 - Who Moved My Cheese?: An A-Mazing Way to Deal with Change in Your Work and in Your Life
-
+- The Coach's Casebook
 
 ## Podcasts
 
