@@ -36,6 +36,7 @@
 ## In Progress
 |            | Book        | Author      | Rating      | Notes     | Tags     |
 |------------|-------------|-------------|-------------|-------------|-------------|
+| <img src="https://images-na.ssl-images-amazon.com/images/I/411VOy-XBkL._SX334_BO1,204,203,200_.jpg" width="100"> |[Necessary Endings](https://www.amazon.com/Necessary-Endings-Henry-Cloud/dp/0061777129/ref=asc_df_0061777129/?tag=hyprod-20&linkCode=df0&hvadid=312748656151&hvpos=&hvnetw=g&hvrand=6381120601777591104&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1027744&hvtargid=pla-434429505499&psc=1) | Henry Cloud |  |  | Leadership, Pschyology, Life 
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41KY-NORo9L._SX355_BO1,204,203,200_.jpg" width="100"> |[48 laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) | Robert Greene |  |  | Social, Leadership, Power 
 
 
