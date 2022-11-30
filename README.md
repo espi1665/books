@@ -47,6 +47,7 @@
 - The Five Disfunctions of a Team
 - The Culture Code
 - Tribal Leadership
+- Coach Wooden's Pyramid of Success
 
 ## Backlog
 - Extreme Ownership: How U.S. Navy SEALs Lead and Win
