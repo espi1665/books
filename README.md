@@ -3,6 +3,7 @@
 ### Contents
   - [Done](#done)
   - [In Progress](#in-progress)
+  - [Wishlist](#wishlist)
   - [Backlog](#backlog)
   - [Podcasts](#podcasts)
 
@@ -39,38 +40,40 @@
 | <img src="https://images-na.ssl-images-amazon.com/images/I/411VOy-XBkL._SX334_BO1,204,203,200_.jpg" width="100"> |[Necessary Endings](https://www.amazon.com/Necessary-Endings-Henry-Cloud/dp/0061777129/ref=asc_df_0061777129/?tag=hyprod-20&linkCode=df0&hvadid=312748656151&hvpos=&hvnetw=g&hvrand=6381120601777591104&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1027744&hvtargid=pla-434429505499&psc=1) | Henry Cloud |  |  | Leadership, Pschyology, Life 
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41KY-NORo9L._SX355_BO1,204,203,200_.jpg" width="100"> |[48 laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) | Robert Greene |  |  | Social, Leadership, Power 
 
+## Wishlist
+- Energy Bus
+- The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company
+- What if I Say the Wrong Thing: 25 Habits for Culturally Effective People
+- The Five Disfunctions of a Team
+- The Culture Code
+- Tribal Leadership
 
 ## Backlog
-
+- Extreme Ownership: How U.S. Navy SEALs Lead and Win
+- Shoe Dog
+- Ego is the enemy
+- 7 Habits of highly effective people
 - OUTDOOR KIDS IN AN INSIDE WORLD
 - Give and Take Revolutionary approach to success
 - Antifragile things that Gain from Disorder
-- The Effective Engineer - Edmond Lau
 - Consious Business
 - Essentialism
-- The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company
 - Talking to Strangers
-- Extreme Ownership: How U.S. Navy SEALs Lead and Win
 - Range: Why Generalists Triumph in a Specialized World
 - The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapic Customer Feedback
 - F*** Feelings: One Shrinks Practical Advice for Managing All Life's Impossible Problems
 - Elon Musk documentary
 - Radical Honesty
-- Energy Bus
 - Psyched up
 - Inside our Coaching - Joe
-- Every movement matters
+- Every Movement Matters
 - Change Coaching Compassion
 - Turn ship around turning followers
 - Radical Candar
 - Startup Owners Manual
 - Mindset: The new psychology of success
-- Shoe Dog
 - Helping People Change: Coaching with Compassion for Lifelong Learning and Growth
-- Ego is the enemy
-- 7 Habits of highly effective people
 - Becoming a Technical Leader - An Organic Problem-Solving Approach
-- What if I Say the Wrong Thing: 25 Habits for Culturally Effective People
 - The ride of a life time - By Robert
 - Principles - Ray Dalio (by far the best book ever read
 - outliers - Malcolm Gladwell
@@ -80,20 +83,14 @@
 - The Gifts of Imperfection—Be you. (Good place to start)
 - Daring Greatly—Be all in. (Practice at work)
 - Rising Strong—Fall. Get up. Try again. (Practice at work)
-- Dare to Lead (Practice at work)
 - Daring Greatly
 - The Power of Vulnerability
-- !!!Co-Active Coaching!!!: https://coactive.com/resources/#books
 - StrengthsFinder-2-0-Tom-Rath-ebook
-- Co-active leadership!!!
 - Scrum: The Art of Doing Twice the Work in Half the Time
 - Coaching Agile Teams
 - The Propsperous Coach
-- The Five Disfunctions of a Team
-- The Culture Code
-- Tribal Leadership
 - “EMPOWERED, Ordinary People, Extraordinary Products” by Silicon Valley Product group
-- situational leadership ken blanchard
+- Situational leadership ken blanchard
 - Who Moved My Cheese?: An A-Mazing Way to Deal with Change in Your Work and in Your Life
 - The Coach's Casebook
 
