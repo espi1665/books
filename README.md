@@ -50,6 +50,7 @@
 - Coach Wooden's Pyramid of Success
 
 ## Backlog
+- The Phoenix Project
 - Extreme Ownership: How U.S. Navy SEALs Lead and Win
 - Shoe Dog
 - Ego is the enemy
@@ -79,7 +80,6 @@
 - Principles - Ray Dalio (by far the best book ever read
 - outliers - Malcolm Gladwell
 - Scrum - the art of doing twice the work in half the Time
-- The Phoenix Project - Gene Kim
 - The Five dysfunctions of a Team - Patrick Lencioni
 - The Gifts of Imperfection—Be you. (Good place to start)
 - Daring Greatly—Be all in. (Practice at work)
