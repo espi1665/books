@@ -41,6 +41,7 @@
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41KY-NORo9L._SX355_BO1,204,203,200_.jpg" width="100"> |[48 laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) | Robert Greene |  |  | Social, Leadership, Power 
 
 ## Wishlist
+- Stop Bullshitting yourself - Drew Hanlen
 - Energy Bus
 - The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company
 - What if I Say the Wrong Thing: 25 Habits for Culturally Effective People
