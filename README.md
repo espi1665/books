@@ -42,6 +42,7 @@
 
 ## Wishlist
 - Stop Bullshitting yourself - Drew Hanlen
+- “What’s the matter with Kansas” by Thomas frank 
 - Energy Bus
 - The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company
 - What if I Say the Wrong Thing: 25 Habits for Culturally Effective People
